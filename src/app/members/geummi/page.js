@@ -10,7 +10,7 @@ export default function SampleMemberPage() {
         <h1>
           안녕하세요,
           <br />
-          OOO입니다.
+          문금미입니다.
         </h1>
         <Introduction>
           GitHub 협업 연습을 위해 만든 간단한 자기소개 페이지입니다. 이 문장을
